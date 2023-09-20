@@ -1,0 +1,8 @@
+user_id,user_name,user_email,user_password,user_image,total_orders,created_at,last_logged_in
+0f2d9f77-6349-488b-b097-3685bded3896,"kumar mehta",mehta@123@gmail.com,$2a$08$aHbpmRYlgACkA3kUo4eNwOh54uUydRLiBpN.bBCTlxX1m8hIYn9JK,xyz-mehta.jpg,40,"2023-09-20 17:34:47","2023-09-20 17:34:47"
+5b02ee82-b336-421d-b4da-bfb7b32ad0b3,Anjali,anjali@gmail.com,$2a$08$dnGQxa0ww5hJqwNCXC6oRujM2RLrVIX7og.IK0JFJNZBPjMGV6JFW,xyz-pnt.jpg,5,"2023-09-20 17:33:01","2023-09-20 17:33:01"
+5c7c33c0-cae6-49c0-b76a-5ce11442907e,"nitesh kumar",nitesh123@gmail.com,$2a$08$z7SJhDIwtGfW3FfeSzMjPuijVWaRs0O6SbxRK2pLhKYNa.5rPN8D.,abc.jpg,44,"2023-09-20 16:51:39","2023-09-20 17:15:57"
+96dd4901-8951-4dc1-ac8f-cbb734cd78fe,madhu,madhu@gmail.com,$2a$08$hW1Mm5nnFAfzJwBXvwrcMejdyZ23iVM2ktyMlw3VLPqAnvfjQo5zq,xyz-pnt.jpg,45,"2023-09-20 17:32:39","2023-09-20 17:32:39"
+9a18d3c4-e8b2-4263-acee-2a63a41801af,sumit,sumit@gmail.com,$2a$08$7.U2X05vz4ByKVHKH3IaNe8wnCuXvXVjdsK1i/meTr1z7XvM4nI4S,xyz-pnt.jpg,50,"2023-09-20 17:33:17","2023-09-20 17:33:17"
+b19a1da9-10bb-4d55-8a25-947ff7fa01c8,"amit kumar mehta",mehtaamit@123@gmail.com,$2a$08$EL0n7L.45.NxlFtCUNm/w.7/5TB08nZjiAaqeUMLCDAE0zZMvb8tK,xyz-amit.jpg,40,"2023-09-20 17:34:23","2023-09-20 17:34:23"
+e4be6ce8-08c7-4da2-9d32-3bdfa61f76a0,"kumar mehta",mehta1@123@gmail.com,$2a$08$/1olZRp8pnNswXQvF3VpmuqTXENQLsnqBw0Om9kBitJZBG5r9mMfq,xyz-mehta.jpg,40,"2023-09-20 17:36:56","2023-09-20 17:36:56"
